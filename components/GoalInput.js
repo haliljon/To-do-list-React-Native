@@ -8,6 +8,7 @@ const GoalInput = (props) => {
         props.onAddGoal(enteredGoalText);
         setEnteredGoalText('')
     }
+
     return (
         <View style={styles.inputContainer}>
             <TextInput placeholder='You course goal' style={styles.textInput} onChangeText={gaolInputHandler} value={enteredGoalText} />
