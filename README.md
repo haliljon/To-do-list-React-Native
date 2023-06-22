@@ -1,5 +1,8 @@
 # To-do-list-React-Native
 
+<img width="438" alt="Screenshot 2023-06-22 at 10 20 06 AM" src="https://github.com/haliljon/To-do-list-React-Native/assets/110017001/b4262e23-dff5-428c-b00a-1cc739656951">
+<img width="438" alt="Screenshot 2023-06-22 at 10 20 20 AM" src="https://github.com/haliljon/To-do-list-React-Native/assets/110017001/8b8d7578-3661-4e16-a0a9-3e757b74eab0">
+
 # 📗 Table of Contents
 
 - [To-do-list-React-Native](#To-do-list-React-Native)
